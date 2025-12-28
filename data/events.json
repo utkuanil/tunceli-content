@@ -8,7 +8,7 @@
     "location": "Tunceli Merkez",
     "lat": 39.106,
     "lng": 39.548,
-    "image": "assets/images/events/munzur_kultur.jpg",
+    "image": "munzur_kultur.jpg",
     "desc": "Konserler, sergiler, söyleşiler ve doğa yürüyüşleri.",
     "url": "https://example.org/munzur"
   },
@@ -21,7 +21,7 @@
     "location": "Tunceli Merkez",
     "lat": 39.350,
     "lng": 39.200,
-    "image": "assets/images/events/mamekifest.jpg",
+    "image": "mamekifest.jpg",
     "desc": "15, 16 ve 17 Ağustos tarihlerinde Munzur’un kalbinde, Mameki Parkı’nda gerçekleşecek festival, doğayla iç içe kültür, sanat, spor ve müziği bir araya getiriyor.",
     "url": ""
   },
@@ -34,7 +34,7 @@
     "location": "Munzur Çayı",
     "lat": 39.12,
     "lng": 39.53,
-    "image": "assets/images/events/rafting.jpg",
+    "image": "rafting.jpg",
     "desc": "Tüm gün yarışlar ve izleyici parkurları.",
     "url": ""
   }
