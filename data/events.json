@@ -1,17 +1,5 @@
 [
-  {
-    "id": "mkde-2025",
-    "title": "Munzur Kültür ve Doğa Etkinlikleri",
-    "category": "Festival",
-    "start": "2025-07-20T10:00:00+03:00",
-    "end":   "2025-07-27T23:00:00+03:00",
-    "location": "Tunceli Merkez",
-    "lat": 39.106,
-    "lng": 39.548,
-    "image": "munzur_kultur.jpg",
-    "desc": "Konserler, sergiler, söyleşiler ve doğa yürüyüşleri.",
-    "url": "https://example.org/munzur"
-  },
+  
   {
     "id": "mameki-fest",
     "title": "Mameki Fest",
